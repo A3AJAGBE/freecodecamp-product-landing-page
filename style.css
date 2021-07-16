@@ -1,0 +1,16 @@
+body {
+    background-color: #c0a062;
+}
+
+.light-theme {
+    background-color: #FBF8F4;
+}
+
+.bi-tags-fill, .bi-people-fill, .bi-geo-alt-fill {
+   font-size: 3em;
+}
+
+.icon {
+    background-color: #FBF8F4;
+    color: #AB7844;
+}
